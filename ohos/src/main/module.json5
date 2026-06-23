@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "fk_user_agent",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

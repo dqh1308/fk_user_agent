@@ -1,6 +1,6 @@
 name: fk_user_agent
-description: Retrieve Android/iOS device user agents in Flutter.
-version: 2.1.0
+description: Retrieve Android/iOS/OHOS device user agents in Flutter.
+version: 2.1.1
 homepage: https://github.com/flutter-fast-kit/fk_user_agent
 
 environment:
@@ -30,6 +30,8 @@ flutter:
         package: io.flutterfastkit.fk_user_agent
         pluginClass: FkUserAgentPlugin
       ios:
+        pluginClass: FkUserAgentPlugin
+      ohos:
         pluginClass: FkUserAgentPlugin
 
   # To add assets to your plugin package, add an assets section, like this:

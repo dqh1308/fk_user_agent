@@ -1,0 +1,12 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "fk_user_agent": "file:../har/fk_user_agent.har",
+    "@ohos/flutter_ohos": "har/flutter.har"
+  }
+}
