@@ -1,3 +1,6 @@
+# 2.1.1
+* feat: 适配 OHOS (HarmonyOS) 平台
+
 # 2.1.0
 * fix: #4
 
